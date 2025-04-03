@@ -12,8 +12,7 @@ public class LookAt : MonoBehaviour
     } 
 } 
 
-/*利用unity子物品跟随父物品的特性，在角色身上挂载一个空物品，让主摄像机
-成为这个空物品的子物品。以实现摄像头的旋转。 */
+/*利用unity子物品跟随父物品的特性，在角色身上挂载一个空物品，让主摄像机成为这个空物品的子物品。以实现摄像头的旋转。 */
 using System.Collections; 
 using System.Collections.Generic; 
 using UnityEngine; 
